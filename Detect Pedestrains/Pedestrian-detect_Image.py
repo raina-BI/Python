@@ -1,7 +1,8 @@
 """
 # python program to detect pedestrians on an image using OpenCV's Histogram of Oriented Gradients (HOG) descriptor 
   along with a pretrained Support Vector Machine (SVM) specifically optimized for pedestrian detection.
-@author: raina
+
+  @author: raina
 
 """
 import cv2

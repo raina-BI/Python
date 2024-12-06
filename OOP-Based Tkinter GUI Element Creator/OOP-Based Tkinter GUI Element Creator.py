@@ -46,7 +46,3 @@ btn=Button(root,text="createElement",command=object1.choose)
 btn.pack(padx=20,pady=10)
 
 root.mainloop()
-
-            
-         
-        

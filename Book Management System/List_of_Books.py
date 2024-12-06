@@ -12,7 +12,7 @@ class BookDetails:
     self.author=author
     self.yearofpublication=yearofpub
     
-    self.book={D
+    self.book={
         "BookTitle":self.booktitle,
         "Genre":self.genre,
         "Author":self.author,
